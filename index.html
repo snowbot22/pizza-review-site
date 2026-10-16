@@ -178,8 +178,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
       </select>
     </div>
     <button class="load-btn" id="loadBtn" onclick="loadSelection()" disabled>Cargar</button>
-    <button class="submit-btn" id="restoreBtn" onclick="document.getElementById('importFile').click()" style="display:none;background:#475569">♻ Restaurar muestras</button>
-    <input type="file" id="importFile" accept=".json" style="display:none" onchange="importJSON(this.files[0]); this.value=''">
+    <button class="submit-btn" id="restoreBtn" onclick="document.getElementById('importFile').click()" style="background:#475569">♻ Restaurar muestras</button>
+    <input type="file" id="importFile" accept=".json" multiple style="display:none" onchange="importJSON(this.files); this.value=''">
     <button class="submit-btn" id="submitBtn" onclick="openSubmitModal()" disabled style="display:none">📤 Enviar resultados</button>
   </div>
 
@@ -378,7 +378,7 @@ function doLogout() {
   document.getElementById("cardGrid").innerHTML =
     `<div class="empty-state"><h2>Selecciona fecha y locación</h2></div>`;
   document.getElementById("statsBar").classList.remove("visible");
-  document.getElementById("submitBtn").style.display = "none"; document.getElementById("restoreBtn").style.display = "none";
+  document.getElementById("submitBtn").style.display = "none";
 }
 
 // ── SELECTORS ────────────────────────────────────────────
@@ -440,7 +440,7 @@ function loadSelection() {
   renderCards();
   updateStats();
   document.getElementById("statsBar").classList.add("visible");
-  document.getElementById("submitBtn").style.display = "block"; document.getElementById("restoreBtn").style.display = "block";
+  document.getElementById("submitBtn").style.display = "block";
   showToast(`${pool.length} imágenes cargadas`);
 }
 
@@ -450,7 +450,7 @@ async function loadDCData(date, locId) {
   const show = (msg) => { grid.innerHTML=`<div class="loading-state"><div class="loading-spinner"></div><p>${msg}</p></div>`; };
   show("Conectando con GitHub…");
   document.getElementById("statsBar").classList.remove("visible");
-  document.getElementById("submitBtn").style.display = "none"; document.getElementById("restoreBtn").style.display = "none";
+  document.getElementById("submitBtn").style.display = "none";
 
   const token = getGHToken();
   if (!token) {
@@ -508,7 +508,7 @@ async function loadDCData(date, locId) {
   renderDCCards();
   updateStatsDC();
   document.getElementById("statsBar").classList.add("visible");
-  document.getElementById("submitBtn").style.display = "block"; document.getElementById("restoreBtn").style.display = "block";
+  document.getElementById("submitBtn").style.display = "block";
   showToast(`${currentSample.length} veredictos para double-check (${DC_PCT}% de ${allVerdicts.length})`);
 }
 
@@ -981,26 +981,42 @@ function downloadJSON() {
 // Restaura progreso desde un JSON bajado con "Descargar JSON" (inverso de buildExportData)
 const ANS_KEYS = ["imagen_valida","pizza_cortada","corte_parejo","tipo_pizza",
   "tiene_burbujas","bordes_limpios","distribucion","horneado","burbuja"];
-async function importJSON(file) {
-  if (!file) return;
-  let rows;
-  try { rows = JSON.parse(await file.text()); } catch(e) { showToast("Archivo JSON inválido"); return; }
-  if (!Array.isArray(rows)) { showToast("Archivo JSON inválido"); return; }
-  const isDC = (currentUser?.role||"reviewer")==="double_check";
-  const inSample = new Set(currentSample.map(r=>r.photo_id));
-  let n = 0;
-  for (const r of rows) {
-    if (!inSample.has(r.photo_id)) continue;
-    const src = isDC ? (r.dc_answers||{}) : r;
-    if (isDC ? !r.dc_decision : r.review_status!=="REVIEWED") continue;
-    const a = {};
-    ANS_KEYS.forEach(k => { if (src[k]!==null && src[k]!==undefined) a[k]=src[k]; });
-    if (isDC) a.dc_decision = r.dc_decision;
-    answers[r.photo_id] = a; n++;
+async function importJSON(files) {
+  if (!files || !files.length || !currentUser) return;
+  const isDC = (currentUser.role||"reviewer")==="double_check";
+  const groups = {};   // "fecha|sucursal" -> { photo_id: answers }
+  let bad = 0;
+  for (const f of files) {
+    let rows;
+    try { rows = JSON.parse(await f.text()); } catch(e) { bad++; continue; }
+    if (!Array.isArray(rows)) { bad++; continue; }
+    for (const r of rows) {
+      if (!r.photo_id || !r.date || !r.location_id) continue;
+      if (isDC ? !r.dc_decision : r.review_status!=="REVIEWED") continue;
+      const src = isDC ? (r.dc_answers||{}) : r;
+      const a = {};
+      ANS_KEYS.forEach(k => { if (src[k]!==null && src[k]!==undefined) a[k]=src[k]; });
+      if (isDC) a.dc_decision = r.dc_decision;
+      const g = `${r.date}|${r.location_id}`;
+      (groups[g] = groups[g] || {})[r.photo_id] = a;
+    }
   }
-  autoSave();
-  if (isDC) { renderDCCards(); updateStatsDC(); } else { renderCards(); updateStats(); }
-  showToast(n ? `${n} revisiones restauradas ✓` : "Ninguna foto del JSON coincide con esta fecha/sucursal");
+  let n = 0;
+  for (const [g, ans] of Object.entries(groups)) {
+    const [date, locId] = g.split("|");
+    const key = storageKey(date, locId);
+    let prev = {};
+    try { prev = JSON.parse(localStorage.getItem(key)||"{}").answers || {}; } catch(e) {}
+    localStorage.setItem(key, JSON.stringify({ answers: {...prev, ...ans}, savedAt: new Date().toISOString() }));
+    n += Object.keys(ans).length;
+  }
+  if (currentDate && currentLocId && groups[`${currentDate}|${currentLocId}`]) {
+    restoreForSelection(currentDate, currentLocId);
+    if (isDC) { renderDCCards(); updateStatsDC(); } else { renderCards(); updateStats(); }
+  }
+  const nGroups = Object.keys(groups).length;
+  showToast(n ? `${n} revisiones restauradas en ${nGroups} sucursal(es) ✓` + (bad?` · ${bad} archivo(s) inválido(s)`:"")
+              : "No se encontraron revisiones en los archivos");
 }
 
 function showToast(msg) {
