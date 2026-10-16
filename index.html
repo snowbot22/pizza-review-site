@@ -178,6 +178,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
       </select>
     </div>
     <button class="load-btn" id="loadBtn" onclick="loadSelection()" disabled>Cargar</button>
+    <button class="submit-btn" id="restoreBtn" onclick="document.getElementById('importFile').click()" style="display:none;background:#475569">♻ Restaurar muestras</button>
+    <input type="file" id="importFile" accept=".json" style="display:none" onchange="importJSON(this.files[0]); this.value=''">
     <button class="submit-btn" id="submitBtn" onclick="openSubmitModal()" disabled style="display:none">📤 Enviar resultados</button>
   </div>
 
@@ -238,8 +240,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
       <div class="modal-actions">
         <button class="btn btn-green" id="confirmSubmitBtn" onclick="doSubmit()">📤 Confirmar envío</button>
         <button class="btn btn-secondary" onclick="downloadJSON()">⬇ Descargar JSON</button>
-        <button class="btn btn-secondary" onclick="document.getElementById('importFile').click()">⬆ Cargar JSON</button>
-        <input type="file" id="importFile" accept=".json" style="display:none" onchange="importJSON(this.files[0]); this.value=''">
         <button class="btn btn-secondary" onclick="closeSubmitModal()">Cancelar</button>
       </div>
     </div>
@@ -378,7 +378,7 @@ function doLogout() {
   document.getElementById("cardGrid").innerHTML =
     `<div class="empty-state"><h2>Selecciona fecha y locación</h2></div>`;
   document.getElementById("statsBar").classList.remove("visible");
-  document.getElementById("submitBtn").style.display = "none";
+  document.getElementById("submitBtn").style.display = "none"; document.getElementById("restoreBtn").style.display = "none";
 }
 
 // ── SELECTORS ────────────────────────────────────────────
@@ -440,7 +440,7 @@ function loadSelection() {
   renderCards();
   updateStats();
   document.getElementById("statsBar").classList.add("visible");
-  document.getElementById("submitBtn").style.display = "block";
+  document.getElementById("submitBtn").style.display = "block"; document.getElementById("restoreBtn").style.display = "block";
   showToast(`${pool.length} imágenes cargadas`);
 }
 
@@ -450,7 +450,7 @@ async function loadDCData(date, locId) {
   const show = (msg) => { grid.innerHTML=`<div class="loading-state"><div class="loading-spinner"></div><p>${msg}</p></div>`; };
   show("Conectando con GitHub…");
   document.getElementById("statsBar").classList.remove("visible");
-  document.getElementById("submitBtn").style.display = "none";
+  document.getElementById("submitBtn").style.display = "none"; document.getElementById("restoreBtn").style.display = "none";
 
   const token = getGHToken();
   if (!token) {
@@ -508,7 +508,7 @@ async function loadDCData(date, locId) {
   renderDCCards();
   updateStatsDC();
   document.getElementById("statsBar").classList.add("visible");
-  document.getElementById("submitBtn").style.display = "block";
+  document.getElementById("submitBtn").style.display = "block"; document.getElementById("restoreBtn").style.display = "block";
   showToast(`${currentSample.length} veredictos para double-check (${DC_PCT}% de ${allVerdicts.length})`);
 }
 
@@ -1000,7 +1000,6 @@ async function importJSON(file) {
   }
   autoSave();
   if (isDC) { renderDCCards(); updateStatsDC(); } else { renderCards(); updateStats(); }
-  closeSubmitModal();
   showToast(n ? `${n} revisiones restauradas ✓` : "Ninguna foto del JSON coincide con esta fecha/sucursal");
 }
 
