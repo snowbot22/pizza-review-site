@@ -238,6 +238,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
       <div class="modal-actions">
         <button class="btn btn-green" id="confirmSubmitBtn" onclick="doSubmit()">📤 Confirmar envío</button>
         <button class="btn btn-secondary" onclick="downloadJSON()">⬇ Descargar JSON</button>
+        <button class="btn btn-secondary" onclick="document.getElementById('importFile').click()">⬆ Cargar JSON</button>
+        <input type="file" id="importFile" accept=".json" style="display:none" onchange="importJSON(this.files[0]); this.value=''">
         <button class="btn btn-secondary" onclick="closeSubmitModal()">Cancelar</button>
       </div>
     </div>
@@ -974,6 +976,32 @@ function downloadJSON() {
   a.href=url;
   a.download=`verdicts_${currentDate}_${currentLocId}_${currentUser.label}_${currentUser.role||"reviewer"}.json`;
   a.click(); URL.revokeObjectURL(url);
+}
+
+// Restaura progreso desde un JSON bajado con "Descargar JSON" (inverso de buildExportData)
+const ANS_KEYS = ["imagen_valida","pizza_cortada","corte_parejo","tipo_pizza",
+  "tiene_burbujas","bordes_limpios","distribucion","horneado","burbuja"];
+async function importJSON(file) {
+  if (!file) return;
+  let rows;
+  try { rows = JSON.parse(await file.text()); } catch(e) { showToast("Archivo JSON inválido"); return; }
+  if (!Array.isArray(rows)) { showToast("Archivo JSON inválido"); return; }
+  const isDC = (currentUser?.role||"reviewer")==="double_check";
+  const inSample = new Set(currentSample.map(r=>r.photo_id));
+  let n = 0;
+  for (const r of rows) {
+    if (!inSample.has(r.photo_id)) continue;
+    const src = isDC ? (r.dc_answers||{}) : r;
+    if (isDC ? !r.dc_decision : r.review_status!=="REVIEWED") continue;
+    const a = {};
+    ANS_KEYS.forEach(k => { if (src[k]!==null && src[k]!==undefined) a[k]=src[k]; });
+    if (isDC) a.dc_decision = r.dc_decision;
+    answers[r.photo_id] = a; n++;
+  }
+  autoSave();
+  if (isDC) { renderDCCards(); updateStatsDC(); } else { renderCards(); updateStats(); }
+  closeSubmitModal();
+  showToast(n ? `${n} revisiones restauradas ✓` : "Ninguna foto del JSON coincide con esta fecha/sucursal");
 }
 
 function showToast(msg) {
