@@ -1,0 +1,134 @@
+[
+  {
+    "photo_id": "misc-balconesdelnorte-20260817-0043",
+    "location_id": "misc-balconesdelnorte",
+    "date": "2026-08-17",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-balconesdelnorte/quality/2026-08-18/20260817PM-20260817-194103_frame_0013_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "especial",
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": "no"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-23T11:22:04.433Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "misc-balconesdelnorte-20260817-0009",
+    "location_id": "misc-balconesdelnorte",
+    "date": "2026-08-17",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-balconesdelnorte/quality/2026-08-18/20260817PM-20260817-125102_frame_0014_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-23T11:22:04.433Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "misc-balconesdelnorte-20260817-0013",
+    "location_id": "misc-balconesdelnorte",
+    "date": "2026-08-17",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-balconesdelnorte/quality/2026-08-18/20260817PM-20260817-131102_frame_0001_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-23T11:22:04.433Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "misc-balconesdelnorte-20260817-0003",
+    "location_id": "misc-balconesdelnorte",
+    "date": "2026-08-17",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-balconesdelnorte/quality/2026-08-18/20260817AM-20260817-113602_frame_0010_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-23T11:22:04.433Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "misc-balconesdelnorte-20260817-0039",
+    "location_id": "misc-balconesdelnorte",
+    "date": "2026-08-17",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-balconesdelnorte/quality/2026-08-18/20260817PM-20260817-192103_frame_0030_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-23T11:22:04.433Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "misc-balconesdelnorte-20260817-0024",
+    "location_id": "misc-balconesdelnorte",
+    "date": "2026-08-17",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-balconesdelnorte/quality/2026-08-18/20260817PM-20260817-150103_frame_0010_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-23T11:22:04.433Z",
+    "dc_answers": null
+  }
+]

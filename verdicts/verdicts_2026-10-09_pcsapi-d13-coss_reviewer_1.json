@@ -1,0 +1,23 @@
+[
+  {
+    "photo_id": "pcsapi-d13-coss-20261009-0000",
+    "location_id": "pcsapi-d13-coss",
+    "date": "2026-10-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-coss/quality/2026-10-10/20261009PM-20261009-122656_frame_0020_1.png",
+    "imagen_valida": true,
+    "pizza_cortada": false,
+    "corte_parejo": null,
+    "tipo_pizza": "pepperoni",
+    "tiene_burbujas": false,
+    "bordes_limpios": false,
+    "distribucion": "MALA",
+    "horneado": "CORRECTO",
+    "burbuja": null,
+    "score": null,
+    "veredicto": null,
+    "review_status": "REVIEWED",
+    "reviewer": "Reviewer 1",
+    "role": "reviewer",
+    "reviewed_at": "2026-10-12T14:24:42.735Z"
+  }
+]

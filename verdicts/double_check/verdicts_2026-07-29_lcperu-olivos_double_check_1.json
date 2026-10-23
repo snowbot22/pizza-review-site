@@ -1,0 +1,24 @@
+[
+  {
+    "photo_id": "lcperu-olivos-20260729-0310",
+    "location_id": "lcperu-olivos",
+    "date": "2026-07-29",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-olivos/quality/2026-07-30/20260729PM-20260729-154210_frame_0027_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": false,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-07-31T15:11:55.133Z",
+    "dc_answers": null
+  }
+]

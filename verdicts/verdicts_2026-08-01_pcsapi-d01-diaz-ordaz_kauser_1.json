@@ -1,0 +1,23 @@
+[
+  {
+    "photo_id": "pcsapi-d01-diaz-ordaz-20260801-1180",
+    "location_id": "pcsapi-d01-diaz-ordaz",
+    "date": "2026-08-01",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-diaz-ordaz/quality/2026-08-02/20260801PM-20260801-212603_frame_0004_1.png",
+    "imagen_valida": true,
+    "pizza_cortada": true,
+    "corte_parejo": true,
+    "tipo_pizza": null,
+    "tiene_burbujas": null,
+    "bordes_limpios": null,
+    "distribucion": null,
+    "horneado": null,
+    "burbuja": null,
+    "score": null,
+    "veredicto": null,
+    "review_status": "REVIEWED",
+    "reviewer": "Kauser 1",
+    "role": "reviewer",
+    "reviewed_at": "2026-08-05T02:59:39.998Z"
+  }
+]
