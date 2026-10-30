@@ -1,0 +1,178 @@
+[
+  {
+    "photo_id": "lcpz-romulo-20260811-0005",
+    "location_id": "lcpz-romulo",
+    "date": "2026-08-11",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/lcpz-romulo-c8a1fc39ab63c83b66cb6e7d/quality/2026-08-12/20260811PM-20260811-122154_frame_0003_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "especial",
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": "no"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:02:03.621Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcpz-romulo-20260811-0063",
+    "location_id": "lcpz-romulo",
+    "date": "2026-08-11",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/lcpz-romulo-c8a1fc39ab63c83b66cb6e7d/quality/2026-08-12/20260811PM-20260811-213157_frame_0019_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": false,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:02:03.621Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcpz-romulo-20260811-0003",
+    "location_id": "lcpz-romulo",
+    "date": "2026-08-11",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/lcpz-romulo-c8a1fc39ab63c83b66cb6e7d/quality/2026-08-12/20260811AM-20260811-113700_frame_0008_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "ALTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:02:03.621Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcpz-romulo-20260811-0041",
+    "location_id": "lcpz-romulo",
+    "date": "2026-08-11",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/lcpz-romulo-c8a1fc39ab63c83b66cb6e7d/quality/2026-08-12/20260811PM-20260811-193654_frame_0005_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": true,
+      "corte_parejo": true,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:02:03.621Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcpz-romulo-20260811-0066",
+    "location_id": "lcpz-romulo",
+    "date": "2026-08-11",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/lcpz-romulo-c8a1fc39ab63c83b66cb6e7d/quality/2026-08-12/20260811PM-20260811-213157_frame_0021_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": false,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:02:03.621Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcpz-romulo-20260811-0011",
+    "location_id": "lcpz-romulo",
+    "date": "2026-08-11",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/lcpz-romulo-c8a1fc39ab63c83b66cb6e7d/quality/2026-08-12/20260811PM-20260811-135154_frame_0029_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "queso",
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": "no"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:02:03.621Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcpz-romulo-20260811-0021",
+    "location_id": "lcpz-romulo",
+    "date": "2026-08-11",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/lcpz-romulo-c8a1fc39ab63c83b66cb6e7d/quality/2026-08-12/20260811PM-20260811-182154_frame_0021_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "queso",
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": "si"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:02:03.621Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcpz-romulo-20260811-0006",
+    "location_id": "lcpz-romulo",
+    "date": "2026-08-11",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/lcpz-romulo-c8a1fc39ab63c83b66cb6e7d/quality/2026-08-12/20260811PM-20260811-122154_frame_0004_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": true,
+      "corte_parejo": true,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:02:03.621Z",
+    "dc_answers": null
+  }
+]

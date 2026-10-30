@@ -1,0 +1,211 @@
+[
+  {
+    "photo_id": "pcsapi-d05-molino-20260808-0002",
+    "location_id": "pcsapi-d05-molino",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-molino/quality/2026-08-09/20260808AM-20260808-112159_frame_0009_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:17:08.226Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d05-molino-20260808-0075",
+    "location_id": "pcsapi-d05-molino",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-molino/quality/2026-08-09/20260808PM-20260808-185159_frame_0019_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:17:08.226Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d05-molino-20260808-0081",
+    "location_id": "pcsapi-d05-molino",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-molino/quality/2026-08-09/20260808PM-20260808-191153_frame_0016_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:17:08.226Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d05-molino-20260808-0093",
+    "location_id": "pcsapi-d05-molino",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-molino/quality/2026-08-09/20260808PM-20260808-193153_frame_0011_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:17:08.226Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d05-molino-20260808-0046",
+    "location_id": "pcsapi-d05-molino",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-molino/quality/2026-08-09/20260808PM-20260808-142159_frame_0016_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "especial",
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:17:08.226Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d05-molino-20260808-0088",
+    "location_id": "pcsapi-d05-molino",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-molino/quality/2026-08-09/20260808PM-20260808-192153_frame_0020_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:17:08.226Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d05-molino-20260808-0103",
+    "location_id": "pcsapi-d05-molino",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-molino/quality/2026-08-09/20260808PM-20260808-203653_frame_0022_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:17:08.226Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d05-molino-20260808-0079",
+    "location_id": "pcsapi-d05-molino",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-molino/quality/2026-08-09/20260808PM-20260808-191153_frame_0012_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:17:08.226Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d05-molino-20260808-0082",
+    "location_id": "pcsapi-d05-molino",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-molino/quality/2026-08-09/20260808PM-20260808-191153_frame_0018_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:17:08.226Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d05-molino-20260808-0077",
+    "location_id": "pcsapi-d05-molino",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-molino/quality/2026-08-09/20260808PM-20260808-185159_frame_0030_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:17:08.226Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d05-molino-20260808-0084",
+    "location_id": "pcsapi-d05-molino",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-molino/quality/2026-08-09/20260808PM-20260808-191153_frame_0030_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:17:08.226Z",
+    "dc_answers": null
+  }
+]

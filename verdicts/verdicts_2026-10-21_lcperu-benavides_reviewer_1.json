@@ -1,0 +1,23 @@
+[
+  {
+    "photo_id": "lcperu-benavides-20261021-0000",
+    "location_id": "lcperu-benavides",
+    "date": "2026-10-21",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-benavides/quality/2026-10-22/20261021AM-20261021-114711_frame_0002_1.png",
+    "imagen_valida": true,
+    "pizza_cortada": true,
+    "corte_parejo": true,
+    "tipo_pizza": null,
+    "tiene_burbujas": null,
+    "bordes_limpios": null,
+    "distribucion": null,
+    "horneado": null,
+    "burbuja": null,
+    "score": null,
+    "veredicto": null,
+    "review_status": "REVIEWED",
+    "reviewer": "Reviewer 1",
+    "role": "reviewer",
+    "reviewed_at": "2026-10-22T20:11:55.083Z"
+  }
+]

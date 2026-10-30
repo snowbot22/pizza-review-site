@@ -1,0 +1,68 @@
+[
+  {
+    "photo_id": "pcsapi-d05-valterra-20260728-0191",
+    "location_id": "pcsapi-d05-valterra",
+    "date": "2026-07-28",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-valterra/quality/2026-07-29/20260728AM-20260728-115607_frame_0001_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": false,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-07-31T14:38:57.114Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d05-valterra-20260728-0194",
+    "location_id": "pcsapi-d05-valterra",
+    "date": "2026-07-28",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-valterra/quality/2026-07-29/20260728AM-20260728-115607_frame_0024_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "especial",
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": "no"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-07-31T14:38:57.114Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d05-valterra-20260728-0192",
+    "location_id": "pcsapi-d05-valterra",
+    "date": "2026-07-28",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-valterra/quality/2026-07-29/20260728AM-20260728-115607_frame_0015_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": false,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-07-31T14:38:57.114Z",
+    "dc_answers": null
+  }
+]

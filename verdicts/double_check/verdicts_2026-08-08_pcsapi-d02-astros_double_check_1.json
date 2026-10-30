@@ -1,0 +1,867 @@
+[
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0102",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-142602_frame_0019_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO"
+    },
+    "dc_decision": "corrected",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "especial",
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": "no"
+    }
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0155",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-180603_frame_0004_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0339",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-201108_frame_0030_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0061",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-133603_frame_0011_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "distribucion": "MALA",
+      "horneado": "CORRECTO"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0127",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-152104_frame_0007_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0222",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-181605_frame_0025_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0337",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-201108_frame_0028_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0033",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-122103_frame_0019_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0012",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-122103_frame_0001_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0375",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-205603_frame_0007_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0199",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-181605_frame_0009_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0325",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-201108_frame_0012_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0097",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-142602_frame_0010_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0301",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-200103_frame_0013_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0439",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-215103_frame_0013_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0360",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-204603_frame_0018_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0309",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-200103_frame_0024_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0362",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-204603_frame_0019_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0291",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-195103_frame_0022_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0137",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-152104_frame_0028_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "especial",
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0015",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-122103_frame_0002_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0245",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-183602_frame_0028_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0075",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-140604_frame_0013_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0224",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-181605_frame_0026_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0338",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-201108_frame_0030_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0235",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-182603_frame_0014_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0218",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-181605_frame_0021_3.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0219",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-181605_frame_0022_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0298",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-200103_frame_0004_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0342",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-203603_frame_0003_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0408",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-211603_frame_0006_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0274",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-193102_frame_0022_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0050",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-124105_frame_0030_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "especial",
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0264",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-185602_frame_0005_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0256",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-184605_frame_0020_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0005",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808AM-20260808-113603_frame_0012_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0409",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-211603_frame_0007_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0348",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-203603_frame_0016_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0161",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-180603_frame_0008_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0010",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808AM-20260808-114603_frame_0019_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0133",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-152104_frame_0015_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0273",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-193102_frame_0019_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0215",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-181605_frame_0020_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0057",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-131103_frame_0010_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-astros-20260808-0253",
+    "location_id": "pcsapi-d02-astros",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-astros/quality/2026-08-09/20260808PM-20260808-184605_frame_0019_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:14:05.967Z",
+    "dc_answers": null
+  }
+]

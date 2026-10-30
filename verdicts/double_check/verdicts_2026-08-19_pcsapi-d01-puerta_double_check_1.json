@@ -1,0 +1,134 @@
+[
+  {
+    "photo_id": "pcsapi-d01-puerta-20260819-0013",
+    "location_id": "pcsapi-d01-puerta",
+    "date": "2026-08-19",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-puerta/quality/2026-08-20/20260819PM-20260819-124043_frame_0012_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "ALTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:22:36.638Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d01-puerta-20260819-0040",
+    "location_id": "pcsapi-d01-puerta",
+    "date": "2026-08-19",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-puerta/quality/2026-08-20/20260819PM-20260819-190543_frame_0006_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:22:36.638Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d01-puerta-20260819-0053",
+    "location_id": "pcsapi-d01-puerta",
+    "date": "2026-08-19",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-puerta/quality/2026-08-20/20260819PM-20260819-201043_frame_0020_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:22:36.638Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d01-puerta-20260819-0026",
+    "location_id": "pcsapi-d01-puerta",
+    "date": "2026-08-19",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-puerta/quality/2026-08-20/20260819PM-20260819-150041_frame_0003_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:22:36.638Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d01-puerta-20260819-0055",
+    "location_id": "pcsapi-d01-puerta",
+    "date": "2026-08-19",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-puerta/quality/2026-08-20/20260819PM-20260819-202043_frame_0029_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:22:36.638Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d01-puerta-20260819-0025",
+    "location_id": "pcsapi-d01-puerta",
+    "date": "2026-08-19",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-puerta/quality/2026-08-20/20260819PM-20260819-143543_frame_0015_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:22:36.638Z",
+    "dc_answers": null
+  }
+]

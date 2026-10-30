@@ -1,0 +1,23 @@
+[
+  {
+    "photo_id": "pcsapi-d10-zaragoza-20260919-0000",
+    "location_id": "pcsapi-d10-zaragoza",
+    "date": "2026-09-19",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-zaragoza/quality/2026-09-20/20260919PM-20260919-184903_frame_0015_1.png",
+    "imagen_valida": true,
+    "pizza_cortada": false,
+    "corte_parejo": null,
+    "tipo_pizza": "pepperoni",
+    "tiene_burbujas": false,
+    "bordes_limpios": true,
+    "distribucion": "ACEPTABLE",
+    "horneado": "CORRECTO",
+    "burbuja": null,
+    "score": null,
+    "veredicto": null,
+    "review_status": "REVIEWED",
+    "reviewer": "Reviewer 1",
+    "role": "reviewer",
+    "reviewed_at": "2026-09-22T13:58:11.132Z"
+  }
+]

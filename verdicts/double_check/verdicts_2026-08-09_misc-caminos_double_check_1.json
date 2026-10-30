@@ -1,0 +1,59 @@
+[
+  {
+    "photo_id": "misc-caminos-20260809-0004",
+    "location_id": "misc-caminos",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caminos/quality/2026-08-10/20260809PM-20260809-183607_frame_0027_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": true,
+      "corte_parejo": true,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:10:00.559Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "misc-caminos-20260809-0009",
+    "location_id": "misc-caminos",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caminos/quality/2026-08-10/20260809PM-20260809-193607_frame_0021_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:10:00.559Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "misc-caminos-20260809-0026",
+    "location_id": "misc-caminos",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caminos/quality/2026-08-10/20260809PM-20260809-213608_frame_0005_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "especial",
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:10:00.559Z",
+    "dc_answers": null
+  }
+]

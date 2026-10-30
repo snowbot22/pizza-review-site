@@ -1,0 +1,23 @@
+[
+  {
+    "photo_id": "pcsapi-d11-etnias-20260830-0000",
+    "location_id": "pcsapi-d11-etnias",
+    "date": "2026-08-30",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-etnias/quality/2026-08-31/20260830PM-20260830-194104_frame_0023_1.png",
+    "imagen_valida": true,
+    "pizza_cortada": false,
+    "corte_parejo": null,
+    "tipo_pizza": "pepperoni",
+    "tiene_burbujas": false,
+    "bordes_limpios": true,
+    "distribucion": "ACEPTABLE",
+    "horneado": "CORRECTO",
+    "burbuja": null,
+    "score": null,
+    "veredicto": null,
+    "review_status": "REVIEWED",
+    "reviewer": "Reviewer 1",
+    "role": "reviewer",
+    "reviewed_at": "2026-09-01T22:28:29.159Z"
+  }
+]

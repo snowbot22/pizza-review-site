@@ -1,0 +1,42 @@
+[
+  {
+    "photo_id": "pcsapi-d03-escobedo-20260809-0000",
+    "location_id": "pcsapi-d03-escobedo",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-escobedo/quality/2026-08-10/20260809PM-20260809-181613_frame_0006_1.png",
+    "imagen_valida": true,
+    "pizza_cortada": false,
+    "corte_parejo": null,
+    "tipo_pizza": "especial",
+    "bubble_detected": false,
+    "borders_is_pass": null,
+    "distribucion": null,
+    "horneado": null,
+    "score": null,
+    "veredicto": null,
+    "review_status": "REVIEWED",
+    "reviewer": "Kauser 1",
+    "role": "reviewer",
+    "reviewed_at": "2026-08-11T20:32:55.075Z"
+  },
+  {
+    "photo_id": "pcsapi-d03-escobedo-20260809-0001",
+    "location_id": "pcsapi-d03-escobedo",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-escobedo/quality/2026-08-10/20260809PM-20260809-203603_frame_0017_1.png",
+    "imagen_valida": false,
+    "pizza_cortada": null,
+    "corte_parejo": null,
+    "tipo_pizza": null,
+    "bubble_detected": null,
+    "borders_is_pass": null,
+    "distribucion": null,
+    "horneado": null,
+    "score": null,
+    "veredicto": null,
+    "review_status": "REVIEWED",
+    "reviewer": "Kauser 1",
+    "role": "reviewer",
+    "reviewed_at": "2026-08-11T20:32:55.075Z"
+  }
+]

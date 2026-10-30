@@ -1,0 +1,23 @@
+[
+  {
+    "photo_id": "pcsapi-d10-zaragoza-20260917-0000",
+    "location_id": "pcsapi-d10-zaragoza",
+    "date": "2026-09-17",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-zaragoza/quality/2026-09-18/20260917PM-20260917-200759_frame_0020_1.png",
+    "imagen_valida": true,
+    "pizza_cortada": true,
+    "corte_parejo": false,
+    "tipo_pizza": null,
+    "tiene_burbujas": null,
+    "bordes_limpios": null,
+    "distribucion": null,
+    "horneado": null,
+    "burbuja": null,
+    "score": null,
+    "veredicto": null,
+    "review_status": "REVIEWED",
+    "reviewer": "Reviewer 1",
+    "role": "reviewer",
+    "reviewed_at": "2026-09-21T00:39:03.700Z"
+  }
+]
