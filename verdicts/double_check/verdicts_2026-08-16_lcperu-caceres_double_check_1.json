@@ -1,0 +1,178 @@
+[
+  {
+    "photo_id": "lcperu-caceres-20260816-0041",
+    "location_id": "lcperu-caceres",
+    "date": "2026-08-16",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caceres/quality/2026-08-17/20260816PM-20260816-181632_frame_0017_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T20:47:02.762Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-caceres-20260816-0040",
+    "location_id": "lcperu-caceres",
+    "date": "2026-08-16",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caceres/quality/2026-08-17/20260816PM-20260816-181632_frame_0017_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T20:47:02.762Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-caceres-20260816-0004",
+    "location_id": "lcperu-caceres",
+    "date": "2026-08-16",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caceres/quality/2026-08-17/20260816PM-20260816-130122_frame_0009_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T20:47:02.762Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-caceres-20260816-0024",
+    "location_id": "lcperu-caceres",
+    "date": "2026-08-16",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caceres/quality/2026-08-17/20260816PM-20260816-150132_frame_0022_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T20:47:02.762Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-caceres-20260816-0029",
+    "location_id": "lcperu-caceres",
+    "date": "2026-08-16",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caceres/quality/2026-08-17/20260816PM-20260816-151127_frame_0006_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T20:47:02.762Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-caceres-20260816-0018",
+    "location_id": "lcperu-caceres",
+    "date": "2026-08-16",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caceres/quality/2026-08-17/20260816PM-20260816-141628_frame_0012_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T20:47:02.762Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-caceres-20260816-0052",
+    "location_id": "lcperu-caceres",
+    "date": "2026-08-16",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caceres/quality/2026-08-17/20260816PM-20260816-201128_frame_0013_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "especial",
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": "no"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T20:47:02.762Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-caceres-20260816-0014",
+    "location_id": "lcperu-caceres",
+    "date": "2026-08-16",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caceres/quality/2026-08-17/20260816PM-20260816-133603_frame_0023_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T20:47:02.762Z",
+    "dc_answers": null
+  }
+]

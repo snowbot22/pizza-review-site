@@ -1,0 +1,166 @@
+[
+  {
+    "photo_id": "lcperu-sanandres-20260813-0000",
+    "location_id": "lcperu-sanandres",
+    "date": "2026-08-13",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-sanandres/quality/2026-08-14/20260813PM-20260813-120124_frame_0019_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": true,
+      "corte_parejo": true,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T19:18:35.759Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-sanandres-20260813-0052",
+    "location_id": "lcperu-sanandres",
+    "date": "2026-08-13",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-sanandres/quality/2026-08-14/20260813PM-20260813-202622_frame_0020_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T19:18:35.759Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-sanandres-20260813-0046",
+    "location_id": "lcperu-sanandres",
+    "date": "2026-08-13",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-sanandres/quality/2026-08-14/20260813PM-20260813-201623_frame_0020_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T19:18:35.759Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-sanandres-20260813-0025",
+    "location_id": "lcperu-sanandres",
+    "date": "2026-08-13",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-sanandres/quality/2026-08-14/20260813PM-20260813-193603_frame_0020_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "BAJO",
+      "burbuja": null
+    },
+    "dc_decision": "corrected",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T19:18:35.759Z",
+    "dc_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    }
+  },
+  {
+    "photo_id": "lcperu-sanandres-20260813-0064",
+    "location_id": "lcperu-sanandres",
+    "date": "2026-08-13",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-sanandres/quality/2026-08-14/20260813PM-20260813-205103_frame_0022_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": true,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T19:18:35.759Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-sanandres-20260813-0039",
+    "location_id": "lcperu-sanandres",
+    "date": "2026-08-13",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-sanandres/quality/2026-08-14/20260813PM-20260813-200623_frame_0008_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T19:18:35.759Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-sanandres-20260813-0018",
+    "location_id": "lcperu-sanandres",
+    "date": "2026-08-13",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-sanandres/quality/2026-08-14/20260813PM-20260813-185126_frame_0016_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T19:18:35.759Z",
+    "dc_answers": null
+  }
+]

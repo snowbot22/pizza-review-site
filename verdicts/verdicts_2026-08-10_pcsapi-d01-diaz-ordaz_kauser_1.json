@@ -1,0 +1,23 @@
+[
+  {
+    "photo_id": "pcsapi-d01-diaz-ordaz-20260810-0000",
+    "location_id": "pcsapi-d01-diaz-ordaz",
+    "date": "2026-08-10",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-diaz-ordaz/quality/2026-08-11/20260810PM-20260810-121602_frame_0016_1.png",
+    "imagen_valida": true,
+    "pizza_cortada": false,
+    "corte_parejo": null,
+    "tipo_pizza": "pepperoni",
+    "tiene_burbujas": false,
+    "bordes_limpios": true,
+    "distribucion": "ACEPTABLE",
+    "horneado": "CORRECTO",
+    "burbuja": null,
+    "score": null,
+    "veredicto": null,
+    "review_status": "REVIEWED",
+    "reviewer": "Kauser 1",
+    "role": "reviewer",
+    "reviewed_at": "2026-08-12T19:52:39.493Z"
+  }
+]

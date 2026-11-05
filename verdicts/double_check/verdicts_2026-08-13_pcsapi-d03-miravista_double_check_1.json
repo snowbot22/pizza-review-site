@@ -1,0 +1,46 @@
+[
+  {
+    "photo_id": "pcsapi-d03-miravista-20260813-0000",
+    "location_id": "pcsapi-d03-miravista",
+    "date": "2026-08-13",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-miravista/quality/2026-08-14/20260813AM-20260813-112606_frame_0029_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": false,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T19:20:23.230Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d03-miravista-20260813-0009",
+    "location_id": "pcsapi-d03-miravista",
+    "date": "2026-08-13",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-miravista/quality/2026-08-14/20260813PM-20260813-181606_frame_0029_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": true,
+      "corte_parejo": true,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T19:20:23.230Z",
+    "dc_answers": null
+  }
+]

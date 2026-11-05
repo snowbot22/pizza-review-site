@@ -1,0 +1,134 @@
+[
+  {
+    "photo_id": "lcperu-riva-aguero-20260817-0005",
+    "location_id": "lcperu-riva-aguero",
+    "date": "2026-08-17",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-rivaaguero/quality/2026-08-18/20260817PM-20260817-124110_frame_0019_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-23T11:24:56.753Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-riva-aguero-20260817-0057",
+    "location_id": "lcperu-riva-aguero",
+    "date": "2026-08-17",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-rivaaguero/quality/2026-08-18/20260817PM-20260817-212606_frame_0028_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-23T11:24:56.753Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-riva-aguero-20260817-0020",
+    "location_id": "lcperu-riva-aguero",
+    "date": "2026-08-17",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-rivaaguero/quality/2026-08-18/20260817PM-20260817-152111_frame_0011_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": true,
+      "corte_parejo": true,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-23T11:24:56.753Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-riva-aguero-20260817-0035",
+    "location_id": "lcperu-riva-aguero",
+    "date": "2026-08-17",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-rivaaguero/quality/2026-08-18/20260817PM-20260817-185614_frame_0001_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "queso",
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": "si"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-23T11:24:56.753Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-riva-aguero-20260817-0010",
+    "location_id": "lcperu-riva-aguero",
+    "date": "2026-08-17",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-rivaaguero/quality/2026-08-18/20260817PM-20260817-133603_frame_0027_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-23T11:24:56.753Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-riva-aguero-20260817-0044",
+    "location_id": "lcperu-riva-aguero",
+    "date": "2026-08-17",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-rivaaguero/quality/2026-08-18/20260817PM-20260817-200105_frame_0027_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-23T11:24:56.753Z",
+    "dc_answers": null
+  }
+]

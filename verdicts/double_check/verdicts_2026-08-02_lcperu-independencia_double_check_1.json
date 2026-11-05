@@ -1,0 +1,100 @@
+[
+  {
+    "photo_id": "lcperu-independencia-20260802-0334",
+    "location_id": "lcperu-independencia",
+    "date": "2026-08-02",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-independencia-bc81e9c6b71f23a50a0a5f0f/quality/2026-08-03/20260802PM-20260802-185154_frame_0009_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-04T17:34:21.428Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-independencia-20260802-0329",
+    "location_id": "lcperu-independencia",
+    "date": "2026-08-02",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-independencia-bc81e9c6b71f23a50a0a5f0f/quality/2026-08-03/20260802PM-20260802-180654_frame_0012_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": true,
+      "corte_parejo": true,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-04T17:34:21.428Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-independencia-20260802-0336",
+    "location_id": "lcperu-independencia",
+    "date": "2026-08-02",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-independencia-bc81e9c6b71f23a50a0a5f0f/quality/2026-08-03/20260802PM-20260802-185154_frame_0027_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-04T17:34:21.428Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-independencia-20260802-0348",
+    "location_id": "lcperu-independencia",
+    "date": "2026-08-02",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-independencia-bc81e9c6b71f23a50a0a5f0f/quality/2026-08-03/20260802PM-20260802-203702_frame_0017_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "ALTO",
+      "burbuja": null
+    },
+    "dc_decision": "corrected",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-04T17:34:21.428Z",
+    "dc_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    }
+  }
+]

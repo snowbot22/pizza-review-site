@@ -1,0 +1,56 @@
+[
+  {
+    "photo_id": "pcsapi-d01-san-blas-20260802-1016",
+    "location_id": "pcsapi-d01-san-blas",
+    "date": "2026-08-02",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-san-blas/quality/2026-08-03/20260802AM-20260802-111103_frame_0025_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": false,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-04T17:58:31.427Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d01-san-blas-20260802-1027",
+    "location_id": "pcsapi-d01-san-blas",
+    "date": "2026-08-02",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-san-blas/quality/2026-08-03/20260802PM-20260802-194102_frame_0011_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": true,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "ALTO",
+      "burbuja": null
+    },
+    "dc_decision": "corrected",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-04T17:58:31.427Z",
+    "dc_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": true,
+      "corte_parejo": true,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    }
+  }
+]

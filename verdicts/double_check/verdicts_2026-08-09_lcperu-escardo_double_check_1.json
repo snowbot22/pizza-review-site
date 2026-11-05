@@ -1,0 +1,59 @@
+[
+  {
+    "photo_id": "lcperu-escardo-20260809-0015",
+    "location_id": "lcperu-escardo",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-escardo/quality/2026-08-10/20260809PM-20260809-211656_frame_0012_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "distribucion": "MALA",
+      "horneado": "ALTO"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:01:46.193Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-escardo-20260809-0019",
+    "location_id": "lcperu-escardo",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-escardo/quality/2026-08-10/20260809PM-20260809-212656_frame_0029_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "distribucion": "MALA",
+      "horneado": "CORRECTO"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:01:46.193Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-escardo-20260809-0004",
+    "location_id": "lcperu-escardo",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-escardo/quality/2026-08-10/20260809PM-20260809-180654_frame_0013_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "especial",
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:01:46.193Z",
+    "dc_answers": null
+  }
+]
