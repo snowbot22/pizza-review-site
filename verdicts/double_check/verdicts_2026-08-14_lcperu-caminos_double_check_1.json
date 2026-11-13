@@ -1,0 +1,134 @@
+[
+  {
+    "photo_id": "lcperu-caminos-20260814-0051",
+    "location_id": "lcperu-caminos",
+    "date": "2026-08-14",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caminos/quality/2026-08-15/20260814PM-20260814-205103_frame_0009_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": true,
+      "corte_parejo": true,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T20:13:47.248Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-caminos-20260814-0012",
+    "location_id": "lcperu-caminos",
+    "date": "2026-08-14",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caminos/quality/2026-08-15/20260814PM-20260814-132103_frame_0018_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T20:13:47.248Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-caminos-20260814-0006",
+    "location_id": "lcperu-caminos",
+    "date": "2026-08-14",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caminos/quality/2026-08-15/20260814PM-20260814-120603_frame_0001_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "queso",
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": "no"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T20:13:47.248Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-caminos-20260814-0005",
+    "location_id": "lcperu-caminos",
+    "date": "2026-08-14",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caminos/quality/2026-08-15/20260814PM-20260814-120603_frame_0001_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "queso",
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": "no"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T20:13:47.248Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-caminos-20260814-0045",
+    "location_id": "lcperu-caminos",
+    "date": "2026-08-14",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caminos/quality/2026-08-15/20260814PM-20260814-200603_frame_0020_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "queso",
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": "si"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T20:13:47.248Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-caminos-20260814-0009",
+    "location_id": "lcperu-caminos",
+    "date": "2026-08-14",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caminos/quality/2026-08-15/20260814PM-20260814-125103_frame_0025_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-18T20:13:47.248Z",
+    "dc_answers": null
+  }
+]

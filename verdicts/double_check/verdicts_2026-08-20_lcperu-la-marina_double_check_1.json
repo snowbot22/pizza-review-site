@@ -1,0 +1,210 @@
+[
+  {
+    "photo_id": "lcperu-la-marina-20260820-0036",
+    "location_id": "lcperu-la-marina",
+    "date": "2026-08-20",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-la-marina-97bbaaf864fa21fbf5382c15/quality/2026-08-21/20260820PM-20260820-194103_frame_0024_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:43:15.451Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-marina-20260820-0044",
+    "location_id": "lcperu-la-marina",
+    "date": "2026-08-20",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-la-marina-97bbaaf864fa21fbf5382c15/quality/2026-08-21/20260820PM-20260820-200103_frame_0003_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:43:15.451Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-marina-20260820-0041",
+    "location_id": "lcperu-la-marina",
+    "date": "2026-08-20",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-la-marina-97bbaaf864fa21fbf5382c15/quality/2026-08-21/20260820PM-20260820-194103_frame_0028_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "especial",
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": "no"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:43:15.451Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-marina-20260820-0025",
+    "location_id": "lcperu-la-marina",
+    "date": "2026-08-20",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-la-marina-97bbaaf864fa21fbf5382c15/quality/2026-08-21/20260820PM-20260820-192103_frame_0017_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "especial",
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": "no"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:43:15.451Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-marina-20260820-0038",
+    "location_id": "lcperu-la-marina",
+    "date": "2026-08-20",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-la-marina-97bbaaf864fa21fbf5382c15/quality/2026-08-21/20260820PM-20260820-194103_frame_0025_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:43:15.451Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-marina-20260820-0003",
+    "location_id": "lcperu-la-marina",
+    "date": "2026-08-20",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-la-marina-97bbaaf864fa21fbf5382c15/quality/2026-08-21/20260820PM-20260820-130103_frame_0006_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": false,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:43:15.451Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-marina-20260820-0076",
+    "location_id": "lcperu-la-marina",
+    "date": "2026-08-20",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-la-marina-97bbaaf864fa21fbf5382c15/quality/2026-08-21/20260820PM-20260820-212603_frame_0005_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:43:15.451Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-marina-20260820-0010",
+    "location_id": "lcperu-la-marina",
+    "date": "2026-08-20",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-la-marina-97bbaaf864fa21fbf5382c15/quality/2026-08-21/20260820PM-20260820-181603_frame_0008_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": false,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:43:15.451Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-marina-20260820-0029",
+    "location_id": "lcperu-la-marina",
+    "date": "2026-08-20",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-la-marina-97bbaaf864fa21fbf5382c15/quality/2026-08-21/20260820PM-20260820-194103_frame_0019_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "corrected",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:43:15.451Z",
+    "dc_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": true,
+      "bordes_limpios": false,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    }
+  }
+]

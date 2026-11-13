@@ -1,0 +1,192 @@
+[
+  {
+    "photo_id": "pcsapi-d02-soriana-cumbres-20260808-0012",
+    "location_id": "pcsapi-d02-soriana-cumbres",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-sorianacumbres/quality/2026-08-09/20260808PM-20260808-134137_frame_0007_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:15:03.018Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-soriana-cumbres-20260808-0063",
+    "location_id": "pcsapi-d02-soriana-cumbres",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-sorianacumbres/quality/2026-08-09/20260808PM-20260808-182639_frame_0022_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:15:03.018Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-soriana-cumbres-20260808-0041",
+    "location_id": "pcsapi-d02-soriana-cumbres",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-sorianacumbres/quality/2026-08-09/20260808PM-20260808-141137_frame_0018_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:15:03.018Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-soriana-cumbres-20260808-0029",
+    "location_id": "pcsapi-d02-soriana-cumbres",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-sorianacumbres/quality/2026-08-09/20260808PM-20260808-140137_frame_0014_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:15:03.018Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-soriana-cumbres-20260808-0066",
+    "location_id": "pcsapi-d02-soriana-cumbres",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-sorianacumbres/quality/2026-08-09/20260808PM-20260808-190640_frame_0005_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "especial",
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:15:03.018Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-soriana-cumbres-20260808-0071",
+    "location_id": "pcsapi-d02-soriana-cumbres",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-sorianacumbres/quality/2026-08-09/20260808PM-20260808-191644_frame_0013_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:15:03.018Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-soriana-cumbres-20260808-0036",
+    "location_id": "pcsapi-d02-soriana-cumbres",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-sorianacumbres/quality/2026-08-09/20260808PM-20260808-140137_frame_0028_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:15:03.018Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-soriana-cumbres-20260808-0050",
+    "location_id": "pcsapi-d02-soriana-cumbres",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-sorianacumbres/quality/2026-08-09/20260808PM-20260808-180634_frame_0013_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:15:03.018Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-soriana-cumbres-20260808-0067",
+    "location_id": "pcsapi-d02-soriana-cumbres",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-sorianacumbres/quality/2026-08-09/20260808PM-20260808-190640_frame_0006_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:15:03.018Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-soriana-cumbres-20260808-0038",
+    "location_id": "pcsapi-d02-soriana-cumbres",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-sorianacumbres/quality/2026-08-09/20260808PM-20260808-141137_frame_0002_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:15:03.018Z",
+    "dc_answers": null
+  }
+]

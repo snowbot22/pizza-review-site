@@ -1,0 +1,68 @@
+[
+  {
+    "photo_id": "lcperu-benavides-20260728-0560",
+    "location_id": "lcperu-benavides",
+    "date": "2026-07-28",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-benavides/quality/2026-07-29/20260728PM-20260728-193141_frame_0015_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": true,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-07-31T14:58:12.904Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-benavides-20260728-0555",
+    "location_id": "lcperu-benavides",
+    "date": "2026-07-28",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-benavides/quality/2026-07-29/20260728PM-20260728-182638_frame_0017_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": true,
+      "corte_parejo": true,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-07-31T14:58:12.904Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-benavides-20260728-0548",
+    "location_id": "lcperu-benavides",
+    "date": "2026-07-28",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-benavides/quality/2026-07-29/20260728PM-20260728-145644_frame_0030_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-07-31T14:58:12.904Z",
+    "dc_answers": null
+  }
+]

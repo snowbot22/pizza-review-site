@@ -1,0 +1,24 @@
+[
+  {
+    "photo_id": "misc-eljaral-20260811-0009",
+    "location_id": "misc-eljaral",
+    "date": "2026-08-11",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-eljaral/quality/2026-08-12/20260811PM-20260811-203602_frame_0018_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": true,
+      "corte_parejo": true,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:08:15.504Z",
+    "dc_answers": null
+  }
+]

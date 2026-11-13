@@ -1,0 +1,23 @@
+[
+  {
+    "photo_id": "pcsapi-d03-miravista-20261009-0000",
+    "location_id": "pcsapi-d03-miravista",
+    "date": "2026-10-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-miravista/quality/2026-10-10/20261009AM-20261009-110603_frame_0019_1.png",
+    "imagen_valida": false,
+    "pizza_cortada": null,
+    "corte_parejo": null,
+    "tipo_pizza": null,
+    "tiene_burbujas": null,
+    "bordes_limpios": null,
+    "distribucion": null,
+    "horneado": null,
+    "burbuja": null,
+    "score": null,
+    "veredicto": null,
+    "review_status": "REVIEWED",
+    "reviewer": "Reviewer 1",
+    "role": "reviewer",
+    "reviewed_at": "2026-10-12T12:52:25.785Z"
+  }
+]

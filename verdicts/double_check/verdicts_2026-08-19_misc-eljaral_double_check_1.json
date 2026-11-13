@@ -1,0 +1,144 @@
+[
+  {
+    "photo_id": "misc-eljaral-20260819-0045",
+    "location_id": "misc-eljaral",
+    "date": "2026-08-19",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-eljaral/quality/2026-08-20/20260819PM-20260819-195103_frame_0010_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": true,
+      "corte_parejo": true,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:23:32.806Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "misc-eljaral-20260819-0008",
+    "location_id": "misc-eljaral",
+    "date": "2026-08-19",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-eljaral/quality/2026-08-20/20260819AM-20260819-115603_frame_0001_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "corrected",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:23:32.806Z",
+    "dc_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "MALA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    }
+  },
+  {
+    "photo_id": "misc-eljaral-20260819-0010",
+    "location_id": "misc-eljaral",
+    "date": "2026-08-19",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-eljaral/quality/2026-08-20/20260819PM-20260819-122103_frame_0025_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:23:32.806Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "misc-eljaral-20260819-0048",
+    "location_id": "misc-eljaral",
+    "date": "2026-08-19",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-eljaral/quality/2026-08-20/20260819PM-20260819-200103_frame_0013_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "especial",
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": "no"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:23:32.806Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "misc-eljaral-20260819-0009",
+    "location_id": "misc-eljaral",
+    "date": "2026-08-19",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-eljaral/quality/2026-08-20/20260819AM-20260819-115603_frame_0005_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:23:32.806Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "misc-eljaral-20260819-0057",
+    "location_id": "misc-eljaral",
+    "date": "2026-08-19",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-eljaral/quality/2026-08-20/20260819PM-20260819-211603_frame_0004_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:23:32.806Z",
+    "dc_answers": null
+  }
+]

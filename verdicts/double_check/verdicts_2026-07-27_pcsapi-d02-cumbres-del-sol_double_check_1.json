@@ -1,0 +1,232 @@
+[
+  {
+    "photo_id": "pcsapi-d02-cumbres-del-sol-20260727-2445",
+    "location_id": "pcsapi-d02-cumbres-del-sol",
+    "date": "2026-07-27",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-cumbresdelsol/quality/2026-07-28/20260727PM-20260727-195103_frame_0026_3.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": true,
+      "corte_parejo": true,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-07-31T14:31:29.437Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-cumbres-del-sol-20260727-2460",
+    "location_id": "pcsapi-d02-cumbres-del-sol",
+    "date": "2026-07-27",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-cumbresdelsol/quality/2026-07-28/20260727PM-20260727-200103_frame_0027_4.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-07-31T14:31:29.437Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-cumbres-del-sol-20260727-2433",
+    "location_id": "pcsapi-d02-cumbres-del-sol",
+    "date": "2026-07-27",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-cumbresdelsol/quality/2026-07-28/20260727PM-20260727-194103_frame_0013_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-07-31T14:31:29.437Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-cumbres-del-sol-20260727-2493",
+    "location_id": "pcsapi-d02-cumbres-del-sol",
+    "date": "2026-07-27",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-cumbresdelsol/quality/2026-07-28/20260727PM-20260727-215103_frame_0028_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-07-31T14:31:29.437Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-cumbres-del-sol-20260727-2434",
+    "location_id": "pcsapi-d02-cumbres-del-sol",
+    "date": "2026-07-27",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-cumbresdelsol/quality/2026-07-28/20260727PM-20260727-194103_frame_0013_3.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-07-31T14:31:29.437Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-cumbres-del-sol-20260727-2415",
+    "location_id": "pcsapi-d02-cumbres-del-sol",
+    "date": "2026-07-27",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-cumbresdelsol/quality/2026-07-28/20260727PM-20260727-140604_frame_0020_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-07-31T14:31:29.437Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-cumbres-del-sol-20260727-2456",
+    "location_id": "pcsapi-d02-cumbres-del-sol",
+    "date": "2026-07-27",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-cumbresdelsol/quality/2026-07-28/20260727PM-20260727-200103_frame_0026_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": true,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-07-31T14:31:29.437Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-cumbres-del-sol-20260727-2470",
+    "location_id": "pcsapi-d02-cumbres-del-sol",
+    "date": "2026-07-27",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-cumbresdelsol/quality/2026-07-28/20260727PM-20260727-201103_frame_0027_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-07-31T14:31:29.437Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-cumbres-del-sol-20260727-2450",
+    "location_id": "pcsapi-d02-cumbres-del-sol",
+    "date": "2026-07-27",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-cumbresdelsol/quality/2026-07-28/20260727PM-20260727-200103_frame_0005_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-07-31T14:31:29.437Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d02-cumbres-del-sol-20260727-2403",
+    "location_id": "pcsapi-d02-cumbres-del-sol",
+    "date": "2026-07-27",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-cumbresdelsol/quality/2026-07-28/20260727PM-20260727-133603_frame_0009_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "corrected",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-07-31T14:31:29.437Z",
+    "dc_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "CORRECTO",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    }
+  }
+]

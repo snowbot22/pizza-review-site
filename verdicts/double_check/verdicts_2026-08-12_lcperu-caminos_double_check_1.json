@@ -1,0 +1,144 @@
+[
+  {
+    "photo_id": "lcperu-caminos-20260812-0003",
+    "location_id": "lcperu-caminos",
+    "date": "2026-08-12",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caminos/quality/2026-08-13/20260812PM-20260812-133603_frame_0012_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:13:17.364Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-caminos-20260812-0009",
+    "location_id": "lcperu-caminos",
+    "date": "2026-08-12",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caminos/quality/2026-08-13/20260812PM-20260812-145103_frame_0023_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:13:17.364Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-caminos-20260812-0011",
+    "location_id": "lcperu-caminos",
+    "date": "2026-08-12",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caminos/quality/2026-08-13/20260812PM-20260812-152103_frame_0010_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:13:17.364Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-caminos-20260812-0053",
+    "location_id": "lcperu-caminos",
+    "date": "2026-08-12",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caminos/quality/2026-08-13/20260812PM-20260812-212103_frame_0019_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "BAJO",
+      "burbuja": null
+    },
+    "dc_decision": "corrected",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:13:17.364Z",
+    "dc_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    }
+  },
+  {
+    "photo_id": "lcperu-caminos-20260812-0012",
+    "location_id": "lcperu-caminos",
+    "date": "2026-08-12",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caminos/quality/2026-08-13/20260812PM-20260812-153603_frame_0002_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:13:17.364Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-caminos-20260812-0028",
+    "location_id": "lcperu-caminos",
+    "date": "2026-08-12",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caminos/quality/2026-08-13/20260812PM-20260812-192103_frame_0011_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:13:17.364Z",
+    "dc_answers": null
+  }
+]

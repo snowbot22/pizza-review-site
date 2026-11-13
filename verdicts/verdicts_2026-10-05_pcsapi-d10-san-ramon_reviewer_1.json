@@ -1,0 +1,23 @@
+[
+  {
+    "photo_id": "pcsapi-d10-san-ramon-20261005-0000",
+    "location_id": "pcsapi-d10-san-ramon",
+    "date": "2026-10-05",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-sanramon/quality/2026-10-06/20261005PM-20261005-134157_frame_0011_1.png",
+    "imagen_valida": true,
+    "pizza_cortada": false,
+    "corte_parejo": null,
+    "tipo_pizza": "pepperoni",
+    "tiene_burbujas": false,
+    "bordes_limpios": false,
+    "distribucion": "MEDIA",
+    "horneado": "CORRECTO",
+    "burbuja": null,
+    "score": null,
+    "veredicto": null,
+    "review_status": "REVIEWED",
+    "reviewer": "Reviewer 1",
+    "role": "reviewer",
+    "reviewed_at": "2026-10-07T22:26:51.385Z"
+  }
+]
