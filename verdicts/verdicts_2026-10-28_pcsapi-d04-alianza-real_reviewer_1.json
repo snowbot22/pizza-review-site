@@ -1,0 +1,23 @@
+[
+  {
+    "photo_id": "pcsapi-d04-alianza-real-20261028-0000",
+    "location_id": "pcsapi-d04-alianza-real",
+    "date": "2026-10-28",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-alianza-real/quality/2026-10-29/20261028PM-20261028-152102_frame_0004_1.png",
+    "imagen_valida": true,
+    "pizza_cortada": false,
+    "corte_parejo": null,
+    "tipo_pizza": "pepperoni",
+    "tiene_burbujas": false,
+    "bordes_limpios": true,
+    "distribucion": "ACEPTABLE",
+    "horneado": "CORRECTO",
+    "burbuja": null,
+    "score": null,
+    "veredicto": null,
+    "review_status": "REVIEWED",
+    "reviewer": "Reviewer 1",
+    "role": "reviewer",
+    "reviewed_at": "2026-10-30T04:06:19.261Z"
+  }
+]

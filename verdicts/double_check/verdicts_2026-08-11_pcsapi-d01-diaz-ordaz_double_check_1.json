@@ -1,0 +1,68 @@
+[
+  {
+    "photo_id": "pcsapi-d01-diaz-ordaz-20260811-0011",
+    "location_id": "pcsapi-d01-diaz-ordaz",
+    "date": "2026-08-11",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-diaz-ordaz/quality/2026-08-12/20260811PM-20260811-141606_frame_0004_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "especial",
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": "no"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:07:41.495Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d01-diaz-ordaz-20260811-0017",
+    "location_id": "pcsapi-d01-diaz-ordaz",
+    "date": "2026-08-11",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-diaz-ordaz/quality/2026-08-12/20260811PM-20260811-154103_frame_0028_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:07:41.495Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d01-diaz-ordaz-20260811-0022",
+    "location_id": "pcsapi-d01-diaz-ordaz",
+    "date": "2026-08-11",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-diaz-ordaz/quality/2026-08-12/20260811PM-20260811-183602_frame_0007_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "EXCESIVO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:07:41.495Z",
+    "dc_answers": null
+  }
+]

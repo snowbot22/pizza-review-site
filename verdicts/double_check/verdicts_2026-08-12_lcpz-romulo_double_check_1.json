@@ -1,0 +1,210 @@
+[
+  {
+    "photo_id": "lcpz-romulo-20260812-0058",
+    "location_id": "lcpz-romulo",
+    "date": "2026-08-12",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/lcpz-romulo-c8a1fc39ab63c83b66cb6e7d/quality/2026-08-13/20260812PM-20260812-202154_frame_0022_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:21:48.019Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcpz-romulo-20260812-0043",
+    "location_id": "lcpz-romulo",
+    "date": "2026-08-12",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/lcpz-romulo-c8a1fc39ab63c83b66cb6e7d/quality/2026-08-13/20260812PM-20260812-195154_frame_0026_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:21:48.019Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcpz-romulo-20260812-0065",
+    "location_id": "lcpz-romulo",
+    "date": "2026-08-12",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/lcpz-romulo-c8a1fc39ab63c83b66cb6e7d/quality/2026-08-13/20260812PM-20260812-205155_frame_0025_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:21:48.019Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcpz-romulo-20260812-0048",
+    "location_id": "lcpz-romulo",
+    "date": "2026-08-12",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/lcpz-romulo-c8a1fc39ab63c83b66cb6e7d/quality/2026-08-13/20260812PM-20260812-200654_frame_0009_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:21:48.019Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcpz-romulo-20260812-0081",
+    "location_id": "lcpz-romulo",
+    "date": "2026-08-12",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/lcpz-romulo-c8a1fc39ab63c83b66cb6e7d/quality/2026-08-13/20260812PM-20260812-212154_frame_0013_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "corrected",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:21:48.019Z",
+    "dc_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": false,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    }
+  },
+  {
+    "photo_id": "lcpz-romulo-20260812-0055",
+    "location_id": "lcpz-romulo",
+    "date": "2026-08-12",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/lcpz-romulo-c8a1fc39ab63c83b66cb6e7d/quality/2026-08-13/20260812PM-20260812-202154_frame_0009_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:21:48.019Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcpz-romulo-20260812-0076",
+    "location_id": "lcpz-romulo",
+    "date": "2026-08-12",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/lcpz-romulo-c8a1fc39ab63c83b66cb6e7d/quality/2026-08-13/20260812PM-20260812-210654_frame_0015_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:21:48.019Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcpz-romulo-20260812-0078",
+    "location_id": "lcpz-romulo",
+    "date": "2026-08-12",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/lcpz-romulo-c8a1fc39ab63c83b66cb6e7d/quality/2026-08-13/20260812PM-20260812-212154_frame_0006_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:21:48.019Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcpz-romulo-20260812-0045",
+    "location_id": "lcpz-romulo",
+    "date": "2026-08-12",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/lcpz-romulo-c8a1fc39ab63c83b66cb6e7d/quality/2026-08-13/20260812PM-20260812-195154_frame_0027_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-14T10:21:48.019Z",
+    "dc_answers": null
+  }
+]

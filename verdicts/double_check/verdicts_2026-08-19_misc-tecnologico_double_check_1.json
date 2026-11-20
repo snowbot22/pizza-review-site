@@ -1,0 +1,90 @@
+[
+  {
+    "photo_id": "misc-tecnologico-20260819-0019",
+    "location_id": "misc-tecnologico",
+    "date": "2026-08-19",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-tecnologico/quality/2026-08-20/20260819PM-20260819-182605_frame_0029_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": true,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:22:49.029Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "misc-tecnologico-20260819-0025",
+    "location_id": "misc-tecnologico",
+    "date": "2026-08-19",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-tecnologico/quality/2026-08-20/20260819PM-20260819-193105_frame_0006_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": true,
+      "bordes_limpios": true,
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:22:49.029Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "misc-tecnologico-20260819-0005",
+    "location_id": "misc-tecnologico",
+    "date": "2026-08-19",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-tecnologico/quality/2026-08-20/20260819PM-20260819-145104_frame_0016_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:22:49.029Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "misc-tecnologico-20260819-0001",
+    "location_id": "misc-tecnologico",
+    "date": "2026-08-19",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-tecnologico/quality/2026-08-20/20260819PM-20260819-123104_frame_0014_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:22:49.029Z",
+    "dc_answers": null
+  }
+]

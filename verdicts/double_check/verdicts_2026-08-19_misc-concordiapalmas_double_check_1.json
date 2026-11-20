@@ -1,0 +1,24 @@
+[
+  {
+    "photo_id": "misc-concordiapalmas-20260819-0008",
+    "location_id": "misc-concordiapalmas",
+    "date": "2026-08-19",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-concordiapalmas/quality/2026-08-20/20260819PM-20260819-151107_frame_0021_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "tiene_burbujas": false,
+      "bordes_limpios": true,
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO",
+      "burbuja": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-24T17:23:41.379Z",
+    "dc_answers": null
+  }
+]

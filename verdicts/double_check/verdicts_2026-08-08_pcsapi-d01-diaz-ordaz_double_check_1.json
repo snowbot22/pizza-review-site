@@ -1,0 +1,40 @@
+[
+  {
+    "photo_id": "pcsapi-d01-diaz-ordaz-20260808-0016",
+    "location_id": "pcsapi-d01-diaz-ordaz",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-diaz-ordaz/quality/2026-08-09/20260808PM-20260808-212603_frame_0016_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": false,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:11:28.863Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "pcsapi-d01-diaz-ordaz-20260808-0003",
+    "location_id": "pcsapi-d01-diaz-ordaz",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-diaz-ordaz/quality/2026-08-09/20260808PM-20260808-182605_frame_0009_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:11:28.863Z",
+    "dc_answers": null
+  }
+]

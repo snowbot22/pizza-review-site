@@ -1,0 +1,23 @@
+[
+  {
+    "photo_id": "pcsapi-d10-san-ramon-20261028-0000",
+    "location_id": "pcsapi-d10-san-ramon",
+    "date": "2026-10-28",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-sanramon/quality/2026-10-29/20261028PM-20261028-212153_frame_0010_1.png",
+    "imagen_valida": true,
+    "pizza_cortada": true,
+    "corte_parejo": false,
+    "tipo_pizza": null,
+    "tiene_burbujas": null,
+    "bordes_limpios": null,
+    "distribucion": null,
+    "horneado": null,
+    "burbuja": null,
+    "score": null,
+    "veredicto": null,
+    "review_status": "REVIEWED",
+    "reviewer": "Reviewer 1",
+    "role": "reviewer",
+    "reviewed_at": "2026-10-30T05:26:23.733Z"
+  }
+]

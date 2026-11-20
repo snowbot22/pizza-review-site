@@ -1,0 +1,46 @@
+[
+  {
+    "photo_id": "lcperu-sucre-20260807-0003",
+    "location_id": "lcperu-sucre",
+    "date": "2026-08-07",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-sucre/quality/2026-08-08/20260807PM-20260807-155352_frame_0013_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "queso",
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": "no"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T08:38:59.142Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-sucre-20260807-0005",
+    "location_id": "lcperu-sucre",
+    "date": "2026-08-07",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-sucre/quality/2026-08-08/20260807PM-20260807-183759_frame_0022_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "especial",
+      "tiene_burbujas": null,
+      "bordes_limpios": null,
+      "distribucion": null,
+      "horneado": null,
+      "burbuja": "no"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T08:38:59.142Z",
+    "dc_answers": null
+  }
+]

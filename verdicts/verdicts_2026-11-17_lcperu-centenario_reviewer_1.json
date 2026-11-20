@@ -1,0 +1,23 @@
+[
+  {
+    "photo_id": "lcperu-centenario-20261117-0000",
+    "location_id": "lcperu-centenario",
+    "date": "2026-11-17",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-centenario/quality/2026-11-18/20261117PM-20261117-190212_frame_0030_1.png",
+    "imagen_valida": false,
+    "pizza_cortada": null,
+    "corte_parejo": null,
+    "tipo_pizza": null,
+    "tiene_burbujas": null,
+    "bordes_limpios": null,
+    "distribucion": null,
+    "horneado": null,
+    "burbuja": null,
+    "score": null,
+    "veredicto": null,
+    "review_status": "REVIEWED",
+    "reviewer": "Reviewer 1",
+    "role": "reviewer",
+    "reviewed_at": "2026-11-19T05:08:13.631Z"
+  }
+]

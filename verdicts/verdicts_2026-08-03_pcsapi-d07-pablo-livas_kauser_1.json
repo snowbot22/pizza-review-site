@@ -1,0 +1,23 @@
+[
+  {
+    "photo_id": "pcsapi-d07-pablo-livas-20260803-0233",
+    "location_id": "pcsapi-d07-pablo-livas",
+    "date": "2026-08-03",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-pablo-livas/quality/2026-08-04/20260803PM-20260803-185159_frame_0026_1.png",
+    "imagen_valida": true,
+    "pizza_cortada": false,
+    "corte_parejo": null,
+    "tipo_pizza": "pepperoni",
+    "tiene_burbujas": false,
+    "bordes_limpios": true,
+    "distribucion": "ACEPTABLE",
+    "horneado": "CORRECTO",
+    "burbuja": null,
+    "score": null,
+    "veredicto": null,
+    "review_status": "REVIEWED",
+    "reviewer": "Kauser 1",
+    "role": "reviewer",
+    "reviewed_at": "2026-08-05T18:45:11.220Z"
+  }
+]
