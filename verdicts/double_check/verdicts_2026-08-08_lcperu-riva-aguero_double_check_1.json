@@ -1,0 +1,59 @@
+[
+  {
+    "photo_id": "lcperu-riva-aguero-20260808-0008",
+    "location_id": "lcperu-riva-aguero",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-rivaaguero/quality/2026-08-09/20260808PM-20260808-184945_frame_0029_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": true,
+      "corte_parejo": false,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:09:13.815Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-riva-aguero-20260808-0023",
+    "location_id": "lcperu-riva-aguero",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-rivaaguero/quality/2026-08-09/20260808PM-20260808-213542_frame_0009_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "queso",
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:09:13.815Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-riva-aguero-20260808-0012",
+    "location_id": "lcperu-riva-aguero",
+    "date": "2026-08-08",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-rivaaguero/quality/2026-08-09/20260808PM-20260808-192022_frame_0018_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": true,
+      "corte_parejo": true,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T09:09:13.815Z",
+    "dc_answers": null
+  }
+]

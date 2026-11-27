@@ -1,0 +1,23 @@
+[
+  {
+    "photo_id": "lcperu-caminos-20261119-0000",
+    "location_id": "lcperu-caminos",
+    "date": "2026-11-19",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-caminos/quality/2026-11-20/20261119PM-20261119-195104_frame_0025_1.png",
+    "imagen_valida": true,
+    "pizza_cortada": false,
+    "corte_parejo": null,
+    "tipo_pizza": "queso",
+    "tiene_burbujas": null,
+    "bordes_limpios": null,
+    "distribucion": null,
+    "horneado": null,
+    "burbuja": "si",
+    "score": null,
+    "veredicto": null,
+    "review_status": "REVIEWED",
+    "reviewer": "Reviewer 1",
+    "role": "reviewer",
+    "reviewed_at": "2026-11-21T23:57:36.160Z"
+  }
+]

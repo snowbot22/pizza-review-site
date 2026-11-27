@@ -1,0 +1,23 @@
+[
+  {
+    "photo_id": "pcsapi-d02-cumbres-del-sol-20261012-0000",
+    "location_id": "pcsapi-d02-cumbres-del-sol",
+    "date": "2026-10-12",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-cumbresdelsol/quality/2026-10-13/20261012PM-20261012-200103_frame_0024_1.png",
+    "imagen_valida": true,
+    "pizza_cortada": false,
+    "corte_parejo": null,
+    "tipo_pizza": "pepperoni",
+    "tiene_burbujas": true,
+    "bordes_limpios": false,
+    "distribucion": "MALA",
+    "horneado": "CORRECTO",
+    "burbuja": null,
+    "score": null,
+    "veredicto": null,
+    "review_status": "REVIEWED",
+    "reviewer": "Reviewer 1",
+    "role": "reviewer",
+    "reviewed_at": "2026-10-14T20:43:02.015Z"
+  }
+]

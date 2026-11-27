@@ -1,0 +1,23 @@
+[
+  {
+    "photo_id": "pcsapi-sansebastian-20261017-0000",
+    "location_id": "pcsapi-sansebastian",
+    "date": "2026-10-17",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-sansebastian/quality/2026-10-18/20261017PM-20261017-132106_frame_0016_1.png",
+    "imagen_valida": true,
+    "pizza_cortada": false,
+    "corte_parejo": null,
+    "tipo_pizza": "pepperoni",
+    "tiene_burbujas": false,
+    "bordes_limpios": true,
+    "distribucion": "ACEPTABLE",
+    "horneado": "CORRECTO",
+    "burbuja": null,
+    "score": null,
+    "veredicto": null,
+    "review_status": "REVIEWED",
+    "reviewer": "Reviewer 1",
+    "role": "reviewer",
+    "reviewed_at": "2026-10-20T16:58:28.873Z"
+  }
+]

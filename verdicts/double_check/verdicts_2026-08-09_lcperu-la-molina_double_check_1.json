@@ -1,0 +1,629 @@
+[
+  {
+    "photo_id": "lcperu-la-molina-20260809-0140",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-192619_frame_0025_3.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0263",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-205614_frame_0003_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0044",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-184615_frame_0006_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0026",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-183603_frame_0021_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0235",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-203603_frame_0018_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0246",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-203603_frame_0029_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0303",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-212103_frame_0019_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0039",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-183603_frame_0027_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0179",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-200111_frame_0023_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0233",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-203603_frame_0017_3.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0064",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-184615_frame_0028_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0199",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-201114_frame_0019_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0173",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-195103_frame_0028_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "distribucion": "ACEPTABLE",
+      "horneado": "CORRECTO"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0000",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-180603_frame_0002_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0114",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-191615_frame_0016_3.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0153",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-193617_frame_0005_3.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0190",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-201114_frame_0010_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "distribucion": "MALA",
+      "horneado": "ALTO"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0154",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-193617_frame_0013_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0152",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-193617_frame_0005_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0095",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-190603_frame_0026_1.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "distribucion": "MEDIA",
+      "horneado": "CORRECTO"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0304",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-212103_frame_0020_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0159",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-193617_frame_0015_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0038",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-183603_frame_0026_2.png",
+    "original_reviewer": "Kauser 1",
+    "original_answers": {
+      "imagen_valida": true,
+      "pizza_cortada": false,
+      "corte_parejo": null,
+      "tipo_pizza": "pepperoni",
+      "distribucion": "MEDIA",
+      "horneado": "ALTO"
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0236",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-203603_frame_0018_3.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0151",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-193617_frame_0005_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0070",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-190603_frame_0001_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0311",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-213114_frame_0017_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0251",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-203603_frame_0030_3.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0219",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-203603_frame_0006_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0040",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-183603_frame_0027_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0018",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-183603_frame_0015_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0244",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-203603_frame_0028_2.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  },
+  {
+    "photo_id": "lcperu-la-molina-20260809-0306",
+    "location_id": "lcperu-la-molina",
+    "date": "2026-08-09",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/grupolcperu-lamolina/quality/2026-08-10/20260809PM-20260809-213114_frame_0010_1.png",
+    "original_reviewer": null,
+    "original_answers": {
+      "imagen_valida": null,
+      "pizza_cortada": null,
+      "corte_parejo": null,
+      "tipo_pizza": null,
+      "distribucion": null,
+      "horneado": null
+    },
+    "dc_decision": "confirmed",
+    "dc_reviewer": "Double Check 1",
+    "dc_reviewed_at": "2026-08-13T10:03:15.981Z",
+    "dc_answers": null
+  }
+]

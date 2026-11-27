@@ -1,0 +1,23 @@
+[
+  {
+    "photo_id": "pcsapi-d05-apodaca-20261122-0000",
+    "location_id": "pcsapi-d05-apodaca",
+    "date": "2026-11-22",
+    "source_url": "https://gritsee-ensemble.s3.us-east-1.amazonaws.com/pcsapi-apodaca/quality/2026-11-23/20261122PM-20261122-181603_frame_0014_1.png",
+    "imagen_valida": true,
+    "pizza_cortada": false,
+    "corte_parejo": null,
+    "tipo_pizza": "especial",
+    "tiene_burbujas": null,
+    "bordes_limpios": null,
+    "distribucion": null,
+    "horneado": null,
+    "burbuja": "no",
+    "score": null,
+    "veredicto": null,
+    "review_status": "REVIEWED",
+    "reviewer": "Reviewer 1",
+    "role": "reviewer",
+    "reviewed_at": "2026-11-24T21:47:30.354Z"
+  }
+]
